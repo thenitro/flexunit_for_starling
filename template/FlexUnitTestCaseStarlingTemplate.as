@@ -5,10 +5,10 @@ package {
 
     import starling.core.Starling;
 
-    public class ProgressManagerTest {
+    public class FlexUnitTestCaseStarlingTemplate {
         private static var _starling:Starling;
 
-        public function ProgressManagerTest() {
+        public function FlexUnitTestCaseStarlingTemplate() {
 
         };
 
